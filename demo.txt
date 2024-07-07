@@ -7,7 +7,7 @@
 
 <?php
 echo "Hello World!";
-echo "Welcome to Daniel's Project"
+echo "Welcome mogbe to Daniel's Project"
 ?>
 
 </body>
